@@ -1,0 +1,36 @@
+# Appointment Management System C-195
+
+Appointment Management System is an app used by businesses to manage appointments for executives and employees as well as contractors and customers.
+The sample information in the Database included is for a music conservatory with locations in: White Plains, NY; Phoenix, AZ; Montreal, Canada; London, England.
+
+## Author
+
+```bash
+Amy Saunders asaund9@wgu.edu
+```
+## Installation
+
+Directions for use of the application:
+
+```bash
+Save the application to your computer and open in IntelliJ.
+Click RUN -> Run 'Main'
+Login with sample data, username = 'test' and password = 'test'.
+```
+
+## Version
+
+```python
+Version Info: 1.2 as of 10/28/2020
+
+IDE: IntelliJ Community 2020.01, Java SE 11.0.4, JavaFX-SDK-11.0.2
+Application version: 17.3405.256 x86_64
+Date: February 22, 2021
+```
+
+## Additional Report
+I actually included two additional reports because I couldn't make three reports look balanced on the Reports Screen.
+My two additional reports include a customer's schedule and a user's schedule, so that app users can see at a glance
+their own upcoming appointments or the receptionist could easily find a customer's schedule for a forgetful
+customer who calls and wants to know when all of their upcoming appointments are.
+
